@@ -100,6 +100,8 @@
     - Sinal da Cruz
     - Oração
     - Glória
+  - Devoções dos Dias da Semana
+  - Devoções dos Meses do Ano
 - Sumário da Doutrina Católica
   - Os artigos da Fé
   - Os Dez Mandamentos
