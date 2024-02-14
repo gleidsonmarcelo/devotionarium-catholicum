@@ -97,9 +97,6 @@
   - Veni Creator
   - Te Deum
   - Novena de Santa Teresa do Menino Jesus e da Sagrada Face
-    - Sinal da Cruz
-    - Oração
-    - Glória
   - Devoções dos Dias da Semana
   - Devoções dos Meses do Ano
 - Sumário da Doutrina Católica
